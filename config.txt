@@ -1,0 +1,115 @@
+
+
+token = NzU4NzUyNDgxNTI1MzY2Nzk0.X2zhUA.70ePBFHDynZoHhu1kD67qMH8T5Q
+
+
+
+owner = 491384140068028417
+
+
+prefix = "!"
+
+
+
+
+game = "Playing League of Legends"
+
+
+status = ONLINE
+
+
+
+songinstatus=false
+
+
+altprefix = ""
+
+
+
+
+success = " :white_check_mark:"
+warning = ":warning:"
+error = ":no_entry_sign: "
+loading = ":arrows_counterclockwise: "
+searching = ":mag: "
+
+
+help = help
+
+
+
+
+npimages = false
+
+
+
+stayinchannel = false
+
+
+
+
+maxtime = 0
+
+
+
+alonetimeuntilstop = 0
+
+
+playlistsfolder = "Playlists"
+
+
+
+updatealerts=true
+
+
+
+
+lyrics.default = "A-Z Lyrics"
+
+
+
+
+aliases {
+  // General commands
+  settings = [ status ]
+
+  // Music commands
+  lyrics = []
+  nowplaying = [ np, current ]
+  play = [p]
+  playlists = [ pls ]
+  queue = [ list ]
+  remove = [ delete ]
+  scsearch = []
+  search = [ ytsearch ]
+  shuffle = []
+  skip = [ voteskip ]
+
+  // Admin commands
+  prefix = [ prefix ]
+  setdj = [ setdj ]
+  setskip = [ setskippercent, skippercent, setskipratio ]
+  settc = []
+  setvc = []
+
+  // DJ Commands
+  forceremove = [ forcedelete, modremove, moddelete, modelete ]
+  forceskip = [ modskip ]
+  movetrack = [ move ]
+  pause = [pause]
+  playnext = []
+  repeat = [r]
+  skipto = [ jumpto ]
+  stop = [ leave ]
+  volume = [ vol ]
+}
+
+
+
+
+transforms = {}
+
+
+
+
+eval=false
